@@ -16,28 +16,39 @@ This portfolio contains QA deliverables designed to reflect real-world testing p
 - Accessibility Testing (eMAG)
 - Agile/Scrum Fundamentals
   
-## Projects
-### 1) Test Plan (Web)
-- Scope, risks, test strategy, entry/exit criteria  
-📁 projects/01-test-plan/
+### Project 01 — Web Application Testing (Functional QA)
+Includes a complete QA cycle with:
+- Test Plan
+- Test Cases
+- Bug Reports
+- Traceability Matrix
+- Test Summary Report
+📁 `projects/project-01-web-ecommerce/`
 
-### 2) Test Cases (Web)
-- Functional + usability test cases with clear expected results  
-📁 projects/02-test-cases/
+### Project 02 — API Testing (Postman)
+Includes:
+- API test cases (GET/POST/PUT/DELETE)
+- Postman collection
+- Validation notes and defect documentation
+📁 `projects/project-02-api-testing/`
 
-### 3) Bug Reports
-- Sample defects with steps to reproduce, expected vs actual, severity/priority, evidence  
-📁 projects/03-bug-reports/
+### Project 03 — Mobile Testing
+Includes:
+- Mobile testing checklist
+- Exploratory testing notes
+- Bug report samples
+📁 `projects/project-03-mobile-testing/`
 
-### 4) API Testing (Postman)
-📁 projects/04-api-testing/
+### Project 04 — Accessibility Testing
+Includes:
+- e-MAG-based checklist
+- Accessibility defect reports
+- Evidence and improvement recommendations
+📁 `projects/project-04-accessibility-testing/`
 
-### 5) Mobile Testing Checklist 
-📁 projects/05-mobile-testing/
-
-## Templates
-Reusable templates for test plan, test cases, and bug reports  
-📁 templates/
+## QA Templates
+Reusable templates for professional QA documentation:
+📁 `templates/`
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/ana-roberta-mota
