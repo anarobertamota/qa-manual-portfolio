@@ -1,5 +1,7 @@
 # QA Portfolio — Ana Roberta Mota
 
+🌍 Language: English | [Português](README-PT.md)
+
 Welcome to my **QA Portfolio**.
 
 I am an **ISTQB® CTFL-certified QA Tester** with solid experience in **functional testing (UAT)**, workflow validation, requirements analysis, defect reporting, and technical documentation in digital systems.
